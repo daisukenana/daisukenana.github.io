@@ -1,0 +1,38 @@
+<section id="home" class="main-banner">
+    <div class="main-banner-text">
+        <h2>リラクゼーションスペースで<br>日々の疲れを癒す</h2>
+    </div>
+</section>
+
+<section id="sauna-intro">
+    <div class="section-title">
+        <h2>サウナ紹介</h2>
+    </div>
+    <div class="sauna-content">
+        <div class="sauna-description">
+            <p>当サウナは、フィンランド式サウナをはじめ、様々なサウナが楽しめるリラクゼーションスペースです。体を温め、心身ともにリフレッシュしましょう。</p>
+        </div>
+        <div class="sauna-image">
+            <img src="sauna-image.jpg" alt="サウナのイメージ画像">
+        </div>
+    </div>
+</section>
+
+<section id="facility-info">
+    <div class="section-title">
+        <h2>施設案内</h2>
+    </div>
+    <div class="facility-content">
+        <div class="facility-item">
+            <img src="facility1.jpg" alt="施設の画像1">
+            <h3>フィンランド式サウナ</h3>
+            <p>北欧の本格的なサウナで深いリラクゼーションをお楽しみいただけます。</p>
+        </div>
+        <div class="facility-item">
+            <img src="facility2.jpg" alt="施設の画像2">
+            <h3>ミストサウナ</h3>
+            <p>やさしいミストでお肌に潤いを与えながら、心地よい温度でリラックスできます。</p>
+        </div>
+        <div class="facility-item">
+            <img src="facility3.jpg" alt="施設の画像3">
+            <h3>リラクゼーショ
