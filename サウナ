@@ -1,3 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>サウナ店 | リラクゼーションスペース</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-logo">
+            <h1>サウナ店</h1>
+        </div>
+        <nav>
+            <ul class="header-menu">
+                <li><a href="#home">ホーム</a></li>
+                <li><a href="#sauna-intro">サウナ紹介</a></li>
+                <li><a href="#facility-info">施設案内</a></li>
+                <li><a href="#price-plan">料金プラン</a></li>
+                <li><a href="#access">アクセス</a></li>
+                <li><a href="#contact">お問い合わせ</a></li>
+            </ul>
+        </nav>
+    </header>
 <section id="home" class="main-banner">
     <div class="main-banner-text">
         <h2>リラクゼーションスペースで<br>日々の疲れを癒す</h2>
